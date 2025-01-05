@@ -1,0 +1,6 @@
+@article{REPO178,
+    author = "Tang, Luming and Ruiz, Nataniel and Qinghao, Chu and Li, Yuanzhen and Holynski, Aleksander and Jacobs, David E and Hariharan, Bharath and Pritch, Yael and Wadhwa, Neal and Aberman, Kfir and Rubinstein, Michael",
+    journal = "arXiv preprint arXiv:2309.16668",
+    title = "{RealFill: Reference-Driven Generation for Authentic Image Completion}",
+    year = "2023"
+}
